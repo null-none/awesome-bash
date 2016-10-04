@@ -30,4 +30,5 @@ Install:
 $ mergeye redis
 $ mergeye mysql
 $ mergeye psql
+$ mergeye apache
 ```
