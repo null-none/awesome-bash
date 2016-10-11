@@ -11,7 +11,7 @@ sudo apt-get upgrade
 sudo apt-get install postgresql-9.5
 sudo apt-get install postgresql-9.5-postgis-2.2 postgresql-contrib-9.5
 sudo apt-get install postgresql-9.5-pgrouting
-CREATE DATABASE bd;
-\connect bd;
-CREATE EXTENSION postgis;
-alter user postgres password 'password';
+#CREATE DATABASE bd;
+#\connect bd;
+#CREATE EXTENSION postgis;
+#alter user postgres password 'password';
