@@ -33,4 +33,6 @@ $ mergeye mysql
 $ mergeye psql
 $ mergeye apache
 $ mergeye nginx
+$ mergeye python
+$ mergeye git
 ```
