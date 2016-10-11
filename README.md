@@ -1,4 +1,4 @@
-# mergeye-bash
+# awesome-bash
 Bash scripts for team MergEye
 
 ***
