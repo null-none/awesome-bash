@@ -27,8 +27,10 @@ $ alias
 Install:
 
 ```bash
+$ mergeye update
 $ mergeye redis
 $ mergeye mysql
 $ mergeye psql
 $ mergeye apache
+$ mergeye nginx
 ```
