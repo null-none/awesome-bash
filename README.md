@@ -7,7 +7,7 @@ Added in ~/.bashrc:
 
 ```bash
 mergeyeCommand() {
-    bash <(curl -s https://raw.githubusercontent.com/MergEye/mergeye-bash/master/$1.sh)
+    bash <(curl -s https://raw.githubusercontent.com/MergEye/awesome-bash/master/$1.sh)
 }
 alias mergeye=mergeyeCommand
 ```
