@@ -35,4 +35,5 @@ $ mergeye apache
 $ mergeye nginx
 $ mergeye python
 $ mergeye git
+$ mergeye php
 ```
